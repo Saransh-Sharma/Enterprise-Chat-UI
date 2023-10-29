@@ -1,8 +1,6 @@
 # `ENTERPRISE-CHAT-UI` 🤖💬
 
-Welcome to `big-AGI` 👋 your personal AGI application
-powered by OpenAI GPT-4 and beyond. Designed for smart humans and super-heroes,
-this responsive web app comes with Personas, Drawing, Code Execution, PDF imports, Voice support,
+Welcome to `ENTERPRISE-CHAT-UI` 👋 powered by OpenAI GPT-4 and beyond. This responsive web app comes with Personas, Drawing, Code Execution, PDF imports, Voice support,
 data Rendering, AGI functions, chats and much more. 
 
 Or fork & run on Vercel
